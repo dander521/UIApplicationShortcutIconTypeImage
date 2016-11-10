@@ -1,0 +1,2 @@
+# UIApplicationShortcutIconTypeImage
+UIApplicationShortcutIconTypeImage
